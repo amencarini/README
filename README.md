@@ -1,9 +1,5 @@
 # Alessandro's Operating Manual
 
-## My Leadership Philosophy 
-
-TBD
-
 ## My answers to [first 1:1 questions](http://larahogan.me/blog/first-one-on-one-questions/ "What to ask in the first 1:1")
  
 What makes you grumpy?
@@ -14,11 +10,11 @@ What makes you grumpy?
 
 How will I know when you’re grumpy?
 
-- Either you, or your manager, will get this information directly
+- You most likely will get this information directly
 
 How can I help you when you’re grumpy?
 
-- Learning stuff! Trying out a new technology, or a novel way to do things, will help. e.g.: I had a long session with a colleague doing stuff around [Elixir remote types](https://hexdocs.pm/elixir/typespecs.html#remote-types) and that absorbed me 100%.
+- Learning stuff! Trying out a new technology, or a novel way to do things, will help.
 
 How do you like feedback - slack, email, in person, etc?
 
@@ -30,7 +26,7 @@ How do you like feedback - routine like in 1:1s, or as-it-happens?
 
 How do you prefer to receive recognition? (public or private)
 
-- I'm ok with both but please warn me privately before a public shout-out.
+- I'm ok with both but if possible please warn me privately before a public shout-out.
 
 What makes 1:1s the most valuable for you?
 
@@ -38,14 +34,14 @@ What makes 1:1s the most valuable for you?
 
 What are your goals for this year? And for the next 3 months?
 
-- In the next 3 months, I want to make sure we retain and bootstrap the developers that joined the company I work for
-- This year, I want to become a lot more proficient at mentoring and coaching!
+- In the next 3 months, I want to become a productive and valuable member of the team. Sounds easier than it is given everyone's skill level!
+- This year, I want to skill up as much as I can after a period of relative stagnation
 
 What do you need from your manager?
 
 - Autonomy
 - Clear objectives
-- Robust feedback when I'm doing something too far away from the beaten path (that said, I will get a JavaScript alternative in our stack!)
+- Robust feedback when I'm doing something too far away from the beaten path
 
 From your team?
 
@@ -59,4 +55,4 @@ From your peers? (outside the team)
 
 What’s your favourite baked good?
 
-- Treat me to pizza and you'll make me happy.
+- I'm trying to lose weight, so... But good pizza never fails to cheer me up
