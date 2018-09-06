@@ -1,5 +1,10 @@
 # Alessandro's Operating Manual
 
+## Communication
+
+- 🌍 While I try my best with English, remember I'm not a native speaker! Please don't get upset if I ask you to repeat things
+- 📢 I show the symptoms of a mild [auditory processing disorder](https://www.nhs.uk/conditions/auditory-processing-disorder/). I won't be a very effective conversationalist in very noisy environments. Also, loud music in the office is a certain way to mess up my productivity 😭
+
 ## My answers to [first 1:1 questions](http://larahogan.me/blog/first-one-on-one-questions/ "What to ask in the first 1:1")
  
 What makes you grumpy?
